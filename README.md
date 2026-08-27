@@ -1,8 +1,7 @@
 # Hi there, I'm Chananya Meepayung 👋
 ### Robotics Software Engineer
 
-I am a **Robotics Software Engineer** with a strong focus on robotics, autonomous systems, and IoT development. Previously, I gained hands-on experience as a Research Engineering Intern at **VISTEC**, where I contributed to the development of robot inspection software.
-
+I am a **Robotics Software Engineer** with a strong focus on robotics, autonomous systems, and IoT development.
 ## 🛠️ Tech Stack & Tools
 * **Robotics & Simulation:** ROS 2 (Humble, Jazzy), Gazebo, SLAM
 * **Programming Languages:** Python, C++, C
