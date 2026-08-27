@@ -1,7 +1,7 @@
 # Hi there, I'm Chananya Meepayung 👋
-### Robotics Engineering
+### Robotics Software Engineer
 
-I am an engineering student at **King Mongkut's University of Technology North Bangkok (KMUTNB)**, with a strong focus on robotics, autonomous systems, and IoT development. Previously, I gained hands-on experience as a Research Engineering Intern at **VISTEC**, where I contributed to the development of robot inspection software.
+I am a **Robotics Software Engineer** with a strong focus on robotics, autonomous systems, and IoT development. Previously, I gained hands-on experience as a Research Engineering Intern at **VISTEC**, where I contributed to the development of robot inspection software.
 
 ## 🛠️ Tech Stack & Tools
 * **Robotics & Simulation:** ROS 2 (Humble, Jazzy), Gazebo, SLAM
@@ -14,4 +14,4 @@ I am an engineering student at **King Mongkut's University of Technology North B
 
 ## 📫 Let's Connect
 * **Email:** chananyaaun123@gmail.com
-* **LinkedIn:** 
+* **LinkedIn:** [linkedin.com/in/chananya-meepayung-b39335356](https://www.linkedin.com/in/chananya-meepayung-b39335356/)
