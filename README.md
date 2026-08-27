@@ -117,7 +117,7 @@ graph LR
 | :--- | :--- | :--- |
 | 🛡️ [**mecanum-4-wheel-ros2**](https://github.com/iaun123/mecanum-4-wheel-ros2) | **Autonomous Mobile Security Robot (MtET Thesis)**<br>Featuring 4-wheel Mecanum drive kinematics, ROS 2 Nav2 autonomous navigation, and 2D/3D SLAM mapping. | `ROS 2` `Python` `SLAM` `Nav2` `Gazebo` |
 | ⚙️ [**mini-project-MtET64**](https://github.com/iaun123/mini-project-MtET64) | **Mechatronics & Robotics System Suite**<br>Comprehensive engineering projects covering robotics algorithms, automation control, and modern C++. | `C++` `Robotics` `Algorithms` `Control` |
-| 💡 [**app**](https://github.com/iaun123/app) | **Weather Lamp Application**<br>Interactive IoT & smart device application combining environmental monitoring with ambient control. | `Python` `Flask` `IoT` |
+| 💡 [**app**](https://github.com/iaun123/app) | **Smart Weather Lamp (Bachelor's Project)**<br>Connected environmental monitoring & ambient lighting system with ESP8266, MQTT WebSockets, and OpenWeatherMap API. | `ESP8266` `MQTT` `JavaScript` `IoT` |
 | 📚 [**book_shelf**](https://github.com/iaun123/book_shelf) | **Digital Book & Knowledge Collection**<br>Curated technical resources and engineering reference management. | `Markdown` `Documentation` |
 
 ---
